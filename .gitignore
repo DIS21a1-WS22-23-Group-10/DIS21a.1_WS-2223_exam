@@ -203,3 +203,9 @@ poetry.toml
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jupyternotebooks
 
 data/
+
+scrts.py
+
+wandb
+wandb-debug.log
+artifacts
